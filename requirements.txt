@@ -1,5 +1,13 @@
 langchain-openai
 streamlit
 python-dotenv
-langcain_core
+langchain_core
 langchain_community
+fastapi
+langserve
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu
