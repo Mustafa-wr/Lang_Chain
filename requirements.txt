@@ -11,3 +11,8 @@ bs4
 pypdf
 chromadb
 faiss-cpu
+wikipedia
+arxiv
+transformers
+sentence-transformers
+langchainhub
