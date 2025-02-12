@@ -16,3 +16,6 @@ arxiv
 transformers
 sentence-transformers
 langchainhub
+groq
+langchain_groq
+beutifulsoup4
