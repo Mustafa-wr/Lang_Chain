@@ -19,3 +19,7 @@ langchainhub
 groq
 langchain_groq
 beutifulsoup4
+cassandra-driver
+cassandra-orm
+
+
